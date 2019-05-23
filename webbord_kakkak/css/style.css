@@ -1,0 +1,22 @@
+.pure-u-1{
+    background-color: #DB7093;
+    text-align: center;
+    color: #FFF;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.row{
+    margin-top: 2vh;
+}
+ .card{
+    width: 60%;
+    margin: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.under {
+    border-bottom: 2px solid #DB7093
+}
+body{
+    background-color: rgb(202, 203, 230,0.4);
+}
